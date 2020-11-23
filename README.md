@@ -27,6 +27,19 @@ little to no importance for someone with even the primary bases of Python.
 
 ---
 
+### Installation :
+After installing the requirements to run the code, you will need the weights of the
+object recognition neural network. **The file is 236MB large (too big for GitHub, 
+and need to be download manually).** 
+
+Weights file download links :
+- Official download (~50KBs download speed) : https://pjreddie.com/media/files/yolov3.weights
+- Inoft download (~20MBs download speed) : https://inoft-open-source.s3.eu-west-3.amazonaws.com/AI-Workshop_City-of-Science-and-Industry_November-2019/yolov3.weights
+
+The Inoft download link is provided for free by Inoft. If the link is down, 
+send me a direct mail to `robinson@inoft.com`
+---
+
 ### Notice :
 The code in this repo is open-sourced under the MIT license. The text content in the 
 presentation file too is also under the MIT license. Yet, the images in the folder 
@@ -45,6 +58,12 @@ cpu : `pip3 install torch==1.3.0+cpu torchvision==0.4.1+cpu -f https://download.
 ---
 
 ### Credits :
+
+For the object recognition neural network, I used a pre-trainer Yolo3 model designed 
+by Joseph Redmon and Ali Farhadi's, with an implementation by Erik Lindernoren’s.
+https://pjreddie.com/media/files/papers/YOLOv3.pdf
+https://pjreddie.com/darknet/yolo/
+
 
 This article has been a huge help for making the workshop possible with such tight deadlines. A lot of 
 the code in this repo has been inspired or copied from this article Some code has been taken from 
