@@ -36,8 +36,8 @@ Weights file download links :
 - Official download (~50KBs download speed) : https://pjreddie.com/media/files/yolov3.weights
 - Inoft download (~20MBs download speed) : https://inoft-open-source.s3.eu-west-3.amazonaws.com/AI-Workshop_City-of-Science-and-Industry_November-2019/yolov3.weights
 
-The Inoft download link is provided for free by Inoft. If the link is down, 
-send me a direct mail to `robinson@inoft.com`
+The Inoft download link is provided for free by Inoft. If the link is down, send me a direct mail to `robinson@inoft.com`
+
 ---
 
 ### Notice :
