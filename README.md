@@ -1,4 +1,4 @@
-### Code for the 2019 november workshops's at the City of Science and Industry.
+### Code for the 2019 november AI workshops's at the City of Science and Industry in Paris.
 
 --- 
 
